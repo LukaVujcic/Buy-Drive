@@ -10,8 +10,8 @@
 
 ## Developers
 
-- [Luka Vujčić, 63/2017](https://gitlab.com/LukaVujcic)
-- [Božidar Mitrović, 54/2017](https://gitlab.com/wade_wilson)
-- [Dušan Petrović, 14/2017](https://gitlab.com/dpns98)
-- [Aleksa Tešić, 121/2017](https://gitlab.com/Imafikus)
-- [Mina Milošević, 81/2017](https://gitlab.com/mina.milosevic)
+- [Luka Vujčić](https://gitlab.com/LukaVujcic)
+- [Božidar Mitrović](https://gitlab.com/wade_wilson)
+- [Dušan Petrović](https://gitlab.com/dpns98)
+- [Aleksa Tešić](https://gitlab.com/Imafikus)
+- [Mina Milošević](https://gitlab.com/mina.milosevic)
